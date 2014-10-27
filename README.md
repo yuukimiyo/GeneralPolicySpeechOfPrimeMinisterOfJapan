@@ -4,7 +4,7 @@ GeneralPolicySpeechOfPrimeMinisterOfJapan
 This is the corpus of Japanese Text that general policy speech of prime minister of Japan
 (from 1953 to 2014)
 
-Wikipediaの「所信表明演説(参考1)」で紹介されている82件の演説を、国会会議録検索システム(参考2)で検索して作成しました。
+Wikipediaの「所信表明演説(参考1)」で紹介されている82件の演説を、国会会議録検索システム(参考2)で検索して作成。
 
 参考1:
 http://ja.wikipedia.org/wiki/%E6%89%80%E4%BF%A1%E8%A1%A8%E6%98%8E%E6%BC%94%E8%AA%AC
