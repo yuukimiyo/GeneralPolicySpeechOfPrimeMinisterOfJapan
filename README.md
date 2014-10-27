@@ -1,5 +1,3 @@
-GeneralPolicySpeechOfPrimeMinisterOfJapan
-
 #所信表明演説コーパス
 
 This is the corpus of Japanese Text that general policy speech of prime minister of Japan
