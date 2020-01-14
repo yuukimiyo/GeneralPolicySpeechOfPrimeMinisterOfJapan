@@ -1,11 +1,11 @@
-#所信表明演説コーパス
+# 所信表明演説コーパス
 
 This is the corpus of Japanese Text that general policy speech of prime minister of Japan
 (from 1953 to 2014)
 
 日本の首相による所信表明演説のコーパス（期間：1953~2014）
 
-##作成方法
+## 作成方法
 
 Wikipediaの「所信表明演説(参考1)」で紹介されている82件の演説を、国会会議録検索システム(参考2)で検索して作成。
 
